@@ -1,2 +1,2 @@
 # Prolog
-códigos da disciplina de Programação Lógica
+Repositório criado para disciplina de Programação Lógica
